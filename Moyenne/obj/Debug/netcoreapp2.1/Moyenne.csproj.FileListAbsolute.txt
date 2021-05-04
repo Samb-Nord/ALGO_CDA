@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\bin\Debug\netcoreapp2.1\Moyenne.deps.json
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\bin\Debug\netcoreapp2.1\Moyenne.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\bin\Debug\netcoreapp2.1\Moyenne.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\bin\Debug\netcoreapp2.1\Moyenne.dll
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\bin\Debug\netcoreapp2.1\Moyenne.pdb
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\obj\Debug\netcoreapp2.1\Moyenne.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\obj\Debug\netcoreapp2.1\Moyenne.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\obj\Debug\netcoreapp2.1\Moyenne.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\obj\Debug\netcoreapp2.1\Moyenne.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\obj\Debug\netcoreapp2.1\Moyenne.dll
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\obj\Debug\netcoreapp2.1\Moyenne.pdb
+C:\Users\Stagiaire\Documents\ALGO\Moyenne\obj\Debug\netcoreapp2.1\Moyenne.genruntimeconfig.cache

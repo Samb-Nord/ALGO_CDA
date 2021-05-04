@@ -1,0 +1,11 @@
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\bin\Debug\netcoreapp2.1\InverserNombres.deps.json
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\bin\Debug\netcoreapp2.1\InverserNombres.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\bin\Debug\netcoreapp2.1\InverserNombres.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\bin\Debug\netcoreapp2.1\InverserNombres.dll
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\bin\Debug\netcoreapp2.1\InverserNombres.pdb
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\obj\Debug\netcoreapp2.1\InverserNombres.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\obj\Debug\netcoreapp2.1\InverserNombres.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\obj\Debug\netcoreapp2.1\InverserNombres.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\obj\Debug\netcoreapp2.1\InverserNombres.dll
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\obj\Debug\netcoreapp2.1\InverserNombres.pdb
+C:\Users\Stagiaire\Documents\ALGO\InverserNombres\obj\Debug\netcoreapp2.1\InverserNombres.genruntimeconfig.cache

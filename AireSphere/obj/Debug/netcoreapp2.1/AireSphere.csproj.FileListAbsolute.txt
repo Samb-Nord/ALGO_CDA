@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\bin\Debug\netcoreapp2.1\AireSphere.deps.json
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\bin\Debug\netcoreapp2.1\AireSphere.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\bin\Debug\netcoreapp2.1\AireSphere.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\bin\Debug\netcoreapp2.1\AireSphere.dll
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\bin\Debug\netcoreapp2.1\AireSphere.pdb
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\obj\Debug\netcoreapp2.1\AireSphere.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\obj\Debug\netcoreapp2.1\AireSphere.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\obj\Debug\netcoreapp2.1\AireSphere.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\obj\Debug\netcoreapp2.1\AireSphere.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\obj\Debug\netcoreapp2.1\AireSphere.dll
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\obj\Debug\netcoreapp2.1\AireSphere.pdb
+C:\Users\Stagiaire\Documents\ALGO\AireSphere\obj\Debug\netcoreapp2.1\AireSphere.genruntimeconfig.cache

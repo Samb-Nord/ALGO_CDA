@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\bin\Debug\netcoreapp2.1\VolumeSphere.deps.json
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\bin\Debug\netcoreapp2.1\VolumeSphere.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\bin\Debug\netcoreapp2.1\VolumeSphere.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\bin\Debug\netcoreapp2.1\VolumeSphere.dll
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\bin\Debug\netcoreapp2.1\VolumeSphere.pdb
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\obj\Debug\netcoreapp2.1\VolumeSphere.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\obj\Debug\netcoreapp2.1\VolumeSphere.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\obj\Debug\netcoreapp2.1\VolumeSphere.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\obj\Debug\netcoreapp2.1\VolumeSphere.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\obj\Debug\netcoreapp2.1\VolumeSphere.dll
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\obj\Debug\netcoreapp2.1\VolumeSphere.pdb
+C:\Users\Stagiaire\Documents\ALGO\VolumeSphere\obj\Debug\netcoreapp2.1\VolumeSphere.genruntimeconfig.cache
