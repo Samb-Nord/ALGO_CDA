@@ -12,7 +12,7 @@ namespace AireCirculaire
             Console.WriteLine("Entrez l'angle de la sphère en degré :");
             double angle = Double.Parse(Console.ReadLine());
             //afficher l'aire du secteur circulaire d'une sphère
-            Console.WriteLine("aire circulaire" + Math.Round(calculerAireCirculaire(rayon, angle), 2) + " cm²");
+            Console.WriteLine("aire circulaire : " + Math.Round(calculerAireCirculaire(rayon, angle), 2) + " cm²");
         }
 
         //Lire le rayon R d'un cercle et un angle a (en degré(s)). Calculer et afficher l'aire du secteur circulaire =  R2 a / 360

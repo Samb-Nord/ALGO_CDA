@@ -10,3 +10,15 @@ C:\Users\Stagiaire\Documents\ALGO\AireCirculaire\obj\Debug\netcoreapp2.1\AireCir
 C:\Users\Stagiaire\Documents\ALGO\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.dll
 C:\Users\Stagiaire\Documents\ALGO\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.pdb
 C:\Users\Stagiaire\Documents\ALGO\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\bin\Debug\netcoreapp2.1\AireCirculaire.deps.json
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\bin\Debug\netcoreapp2.1\AireCirculaire.runtimeconfig.json
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\bin\Debug\netcoreapp2.1\AireCirculaire.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\bin\Debug\netcoreapp2.1\AireCirculaire.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\bin\Debug\netcoreapp2.1\AireCirculaire.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.dll
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.pdb
+C:\Users\Stagiaire\Documents\ALGO_CDA\AireCirculaire\obj\Debug\netcoreapp2.1\AireCirculaire.genruntimeconfig.cache
