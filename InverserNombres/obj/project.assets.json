@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stagiaire\\Documents\\ALGO\\InverserNombres\\InverserNombres.csproj",
+      "projectUniqueName": "C:\\Users\\Stagiaire\\Documents\\ALGO_CDA\\InverserNombres\\InverserNombres.csproj",
       "projectName": "InverserNombres",
-      "projectPath": "C:\\Users\\Stagiaire\\Documents\\ALGO\\InverserNombres\\InverserNombres.csproj",
+      "projectPath": "C:\\Users\\Stagiaire\\Documents\\ALGO_CDA\\InverserNombres\\InverserNombres.csproj",
       "packagesPath": "C:\\Users\\Stagiaire\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stagiaire\\Documents\\ALGO\\InverserNombres\\obj\\",
+      "outputPath": "C:\\Users\\Stagiaire\\Documents\\ALGO_CDA\\InverserNombres\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
