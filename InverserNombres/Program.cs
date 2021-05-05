@@ -12,18 +12,19 @@ namespace InverserNombres
             Console.WriteLine("Entrez un deuxième nombre");
             int nombre2 = Int32.Parse(Console.ReadLine());
             //inverser deux nombres
+            Console.WriteLine("-------------- Avant inversion -----------");
             Console.WriteLine("premier nombre devient " + nombre1 + " - deuxième nombre devient " + nombre2);
 
-            InverserNombres(ref nombre1, ref nombre2, out int nombreTemporaire);
-
+            InverserNombres(ref nombre1, ref nombre2);
+            Console.WriteLine("-------------- Après inversion -----------");
             Console.WriteLine("premier nombre devient " + nombre1 + " - deuxième nombre devient " + nombre2);
         }
 
         //Lire 2 nombres a et b. Mettre le contenu de a dans b et celui de b dans a
-        public static void InverserNombres(ref int a, ref int b, out int temporaire)
+        public static void InverserNombres(ref int a, ref int b)
         {
 
-            temporaire = a;
+            int temporaire = a;
             a = b;
             b = temporaire;
         }
